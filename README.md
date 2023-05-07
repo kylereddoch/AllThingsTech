@@ -15,6 +15,7 @@ If you do make a donation, then please let [@cliffwade](https://allthingstech.so
 The admins are here to make sure our community is well taken care of, everything is running smoothly, and everyone feels welcome!
 
 [@cliffwade@allthingstech.social](https://allthingstech.social/@cliffwade) - owner/admin
+
 [@kylewritescode@allthingstech.social](https://allthingstech.social/@kylewritescode) - admin
 
 ## Moderators
