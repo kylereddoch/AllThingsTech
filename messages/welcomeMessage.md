@@ -2,7 +2,7 @@
 
 Welcome to #AllThingsTech {username}! We’re glad you’re here and look forward to interacting with and seeing what you have to offer as far as content.
 
-About our server ➡️https://blog.allthingstech.social/what-is-allthingstech-social/
+About our server ➡️ https://blog.allthingstech.social/what-is-allthingstech-social/
 
 Our rules ➡️ [https://allthingstech.social/about/](https://allthingstech.social/about/)
 
